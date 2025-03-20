@@ -1,6 +1,0 @@
-3
-modified  1.5708 0.0000 0.0 0.0000 revolute  active  1.5708 -4.7124 4.7124
-modified -1.5708 0.0000 0.0 0.0000 revolute  active -1.5708 -0.9250 0.9250
-modified  1.5708 0.0000 0.0 0.0000 prismatic active -0.4318  0.0000 0.2400
-
-mod/std   alpha      a  theta   d   rev/pris act/pas offset   qmin   qmax
