@@ -1,0 +1,33 @@
+M- cisst 1.1.0 (git: 1.1.0)
+M- CISST_ROOT: /home/dvrk-pc/catkin_ws/build/cisst
+M- cisst share: /home/dvrk-pc/catkin_ws/build/cisst/share/cisst-1.1
+M- cmn_m: 1, cmn_kg: 1, CISST_USE_SI_UNITS is set to 1
+-E File: robManipulator.cpp Line: 201 -  robManipulator::LoadRobot: couldn't open configuration file LargeNeedleDrivePSM1_model.rob
+-E File: robManipulator.cpp Line: 478 -  robManipulator::InverseKinematics: expected 3 joints values but received 6
+-E File: robManipulator.cpp Line: 478 -  robManipulator::InverseKinematics: expected 3 joints values but received 6
+-E File: robManipulator.cpp Line: 478 -  robManipulator::InverseKinematics: expected 3 joints values but received 6
+-E File: robManipulator.cpp Line: 478 -  robManipulator::InverseKinematics: expected 3 joints values but received 6
+-E File: robManipulator.cpp Line: 478 -  robManipulator::InverseKinematics: expected 3 joints values but received 6
+-E File: robManipulator.cpp Line: 478 -  robManipulator::InverseKinematics: expected 3 joints values but received 6
+-E File: robManipulator.cpp Line: 478 -  robManipulator::InverseKinematics: expected 3 joints values but received 6
+-E File: robManipulator.cpp Line: 478 -  robManipulator::InverseKinematics: expected 3 joints values but received 6
+-E File: robManipulator.cpp Line: 478 -  robManipulator::InverseKinematics: expected 3 joints values but received 6
+-E File: robManipulator.cpp Line: 478 -  robManipulator::InverseKinematics: expected 3 joints values but received 6
+-E File: robManipulator.cpp Line: 478 -  robManipulator::InverseKinematics: expected 3 joints values but received 6
+-E File: robManipulator.cpp Line: 478 -  robManipulator::InverseKinematics: expected 3 joints values but received 6
+-E File: robManipulator.cpp Line: 478 -  robManipulator::InverseKinematics: expected 3 joints values but received 6
+-E File: robManipulator.cpp Line: 478 -  robManipulator::InverseKinematics: expected 3 joints values but received 6
+-E File: robManipulator.cpp Line: 478 -  robManipulator::InverseKinematics: expected 3 joints values but received 6
+-E File: robManipulator.cpp Line: 478 -  robManipulator::InverseKinematics: expected 3 joints values but received 6
+-E File: robManipulator.cpp Line: 478 -  robManipulator::InverseKinematics: expected 3 joints values but received 6
+-E File: robManipulator.cpp Line: 478 -  robManipulator::InverseKinematics: expected 3 joints values but received 6
+-E File: robManipulator.cpp Line: 478 -  robManipulator::InverseKinematics: expected 3 joints values but received 6
+-E File: robManipulator.cpp Line: 478 -  robManipulator::InverseKinematics: expected 3 joints values but received 6
+-E File: robManipulator.cpp Line: 478 -  robManipulator::InverseKinematics: expected 3 joints values but received 6
+-E File: robManipulator.cpp Line: 478 -  robManipulator::InverseKinematics: expected 3 joints values but received 6
+-E File: robManipulator.cpp Line: 478 -  robManipulator::InverseKinematics: expected 3 joints values but received 6
+-E File: robManipulator.cpp Line: 478 -  robManipulator::InverseKinematics: expected 3 joints values but received 6
+-E File: robManipulator.cpp Line: 478 -  robManipulator::InverseKinematics: expected 3 joints values but received 6
+-E File: robManipulator.cpp Line: 478 -  robManipulator::InverseKinematics: expected 3 joints values but received 6
+-E File: robManipulator.cpp Line: 478 -  robManipulator::InverseKinematics: expected 3 joints values but received 6
+-E File: robManipulator.cpp Line: 478 -  robManipulator::InverseKinematics: expected 3 joints values but received 6
